@@ -15,6 +15,3 @@ export default function Main({records, cookieFormHandler, report, themeColor}){
       </>
     )
   }
-
-
-  
